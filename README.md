@@ -6,7 +6,7 @@ This repository contains data and trained models for predicting molecular proper
 -tadf_data.csv
   Dataset of TADF molecules with HOMO, LUMO, and related properties.
 
--generated.csv
+-generated_nir.csv
   Final dataset of the generated molecules.
 
 -*.pkl
