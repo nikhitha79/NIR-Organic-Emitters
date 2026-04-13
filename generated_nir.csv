@@ -1,0 +1,7 @@
+﻿name,s1,t1,dele,abs,wavelength,osc,smiles
+NIT-1,1.203,0.959,0.244,952.4,1030.4,0.007,CCCCCCn1c2ccccc2c2c1c1c3ccccc3n(C(=C(C#N)C#N)C(=C(C#N)C#N)c3ccc(C4=C5C(=O)N(CC)C(c6cccs6)=C5C(=O)N4CC)s3)c1c1c3ccccc3n(CCCCCC)c21
+NIT-2,1.447,1.437,0.01,1001.7,856.6,0.00011,CC1(C)c2ccccc2N(c2ccc(C=C3C(=O)c4c(sc5ccsc45)C3=C(C#N)C#N)cc2)c2c1ccc1c2c2ccccc2n1-c1ccccc1
+NIT-3,1.58,1.568,0.012,814,784.7,0.0007,CC1(C)c2ccccc2N(c2cc3sc(/C=C4\\C(=O)c5ccccc5C4=C(C#N)C#N)cc3s2)c2c1ccc1c2sc2ccccc21
+NIT-4,1.701,1.7,0.001,880.2,728.9,0.00019,CC1(C)c2ccccc2-c2cc3c(cc21)N(c1ccc(C=C2C(=O)c4c(sc5ccsc45)C2=C(C#N)C#N)cc1)c1ccccc1C3(C)C
+NIT-5,1.714,1.54,0.174,741.1,723.4,0.0035,CCCCCCn1c2ccccc2c2c1c1c3ccccc3n(-c3ccc(/C=C4\\SC(=S)N(CC)C4=O)c4nonc34)c1c1c3ccccc3n(CCCCCC)c21
+NIT-6,1.728,1.685,0.043,717.5,717.4,0.0428,C1C=C2/C(/C(/C(=O)C2=CC=1)=C/C1SC(N2C3C=CC=CC=3OC3C=CC=CC2=3)=CC=1)=C(/C#N)\C#N
